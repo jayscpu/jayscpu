@@ -1,0 +1,5 @@
+- 👋 Hi!, I’m @jayscpu
+- 👀 I’m interested in art & decoding nature (bioinformatics)
+- 🌱 I’m currently learning html, css, javascript & php!
+- 💞️ I’m looking to collaborate on fun stuff  
+- 📫 How to reach me @aljoharaalbawardi@gmail.com
